@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T01:04:52.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Kxg6NuKb1cx1GeAfFKsK" version="24.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-24T01:21:25.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="6pH3Czt3bh8hZj2H-IQv" version="24.6.2" type="github" pages="7">
   <diagram id="uTRh53UvC9rDnZi2qPS6" name="Flowchart">
     <mxGraphModel dx="4003" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3000,7 +3000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKgJ5y4iiNk7cbwH_yPr" name="CFD">
-    <mxGraphModel dx="695" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="486" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3024,17 +3024,18 @@
         </mxCell>
         <mxCell id="cWJs-fUC4viD8omd0u8L-2" value="Register and Manage Personal Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cWJs-fUC4viD8omd0u8L-1" vertex="1" connectable="0">
           <mxGeometry x="-0.2833" y="-2" relative="1" as="geometry">
-            <mxPoint x="13" y="-7" as="offset" />
+            <mxPoint x="53" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pninOs_m-NSGgYnrp1kX-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;PATIENT&lt;/b&gt;&lt;/font&gt;" style="rounded=0;fillColor=default;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1080" y="73" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cWJs-fUC4viD8omd0u8L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cWJs-fUC4viD8omd0u8L-3" target="TPYHnDhYXUGEtlh3Gv5O-1" edge="1">
+        <mxCell id="cWJs-fUC4viD8omd0u8L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.05;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cWJs-fUC4viD8omd0u8L-3" target="TPYHnDhYXUGEtlh3Gv5O-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="552" y="660" />
+              <mxPoint x="495" y="660" />
+              <mxPoint x="495" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3043,11 +3044,11 @@
             <mxPoint x="-41" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BLWF8peJ8H2FLC36ogXw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.32;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cWJs-fUC4viD8omd0u8L-3" target="TPYHnDhYXUGEtlh3Gv5O-1" edge="1">
+        <mxCell id="BLWF8peJ8H2FLC36ogXw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.11;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cWJs-fUC4viD8omd0u8L-3" target="TPYHnDhYXUGEtlh3Gv5O-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="573" y="690" />
+              <mxPoint x="512" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3110,17 +3111,17 @@
         <mxCell id="YSHJ7Yzmx6jS9x37ntUj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YSHJ7Yzmx6jS9x37ntUj-1" target="TPYHnDhYXUGEtlh3Gv5O-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-3" value="Post &amp;amp; Request Item &amp;amp; Services" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-2">
+        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-3" value="Post &amp;amp; Request Item, Services &amp;amp; Room Charges" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-2">
           <mxGeometry x="0.7733" y="-3" relative="1" as="geometry">
-            <mxPoint x="81" y="-6" as="offset" />
+            <mxPoint x="125" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSHJ7Yzmx6jS9x37ntUj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSHJ7Yzmx6jS9x37ntUj-1" target="TPYHnDhYXUGEtlh3Gv5O-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-7" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Monitor and Manage Patient record&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;(Vital Sign, Diet-list, Progress notes)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-5">
+        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-7" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Monitor and Manage Patient record&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;(Vital Sign, Diet-list, Progress notes)&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-5">
           <mxGeometry x="0.512" y="-1" relative="1" as="geometry">
-            <mxPoint x="52" y="-16" as="offset" />
+            <mxPoint x="-46" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSHJ7Yzmx6jS9x37ntUj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pninOs_m-NSGgYnrp1kX-2" target="TPYHnDhYXUGEtlh3Gv5O-1">
@@ -3128,11 +3129,19 @@
         </mxCell>
         <mxCell id="YSHJ7Yzmx6jS9x37ntUj-9" value="Monitor Personal Record" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-8">
           <mxGeometry x="-0.0257" y="-1" relative="1" as="geometry">
-            <mxPoint x="23" y="-8" as="offset" />
+            <mxPoint x="63" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSHJ7Yzmx6jS9x37ntUj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;DOCTOR&lt;/b&gt;&lt;/font&gt;" style="rounded=0;fillColor=default;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="610" width="160" height="60" as="geometry" />
+          <mxGeometry x="1080" y="640" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=1;entryDx=0;entryDy=1;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSHJ7Yzmx6jS9x37ntUj-10" target="TPYHnDhYXUGEtlh3Gv5O-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YSHJ7Yzmx6jS9x37ntUj-12" value="Monitor and Manage Patient Diagnosis &amp;amp; Progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YSHJ7Yzmx6jS9x37ntUj-11">
+          <mxGeometry x="0.1299" y="-3" relative="1" as="geometry">
+            <mxPoint x="130" y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
