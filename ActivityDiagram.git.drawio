@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T05:23:26.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="967sFCZN-4LO9O67avsM" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-04T05:24:30.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="oWVd-LIIpJASCqFrAhNR" version="24.6.4" type="github" pages="7">
   <diagram id="uTRh53UvC9rDnZi2qPS6" name="Flowchart">
     <mxGraphModel dx="2086" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3191,6 +3191,18 @@
         </mxCell>
         <mxCell id="tpqXBUZRoF7W4Se7ErPI-10" value="Nurse Navigation and Settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpqXBUZRoF7W4Se7ErPI-8">
           <mxGeometry x="-0.8051" relative="1" as="geometry">
+            <mxPoint x="73" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.87;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPYHnDhYXUGEtlh3Gv5O-1" target="pninOs_m-NSGgYnrp1kX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-12" value="Patient Navigation and Settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpqXBUZRoF7W4Se7ErPI-11">
+          <mxGeometry x="-0.047" relative="1" as="geometry">
             <mxPoint x="73" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
