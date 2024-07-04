@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:19:12.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VsrsmD9MMhMBTRJmfJnK" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-04T06:20:37.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YRzoypn8jkBz_Gfo1aIb" version="24.6.4" type="github" pages="7">
   <diagram id="uTRh53UvC9rDnZi2qPS6" name="Flowchart">
     <mxGraphModel dx="2086" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3000,7 +3000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKgJ5y4iiNk7cbwH_yPr" name="CFD">
-    <mxGraphModel dx="478" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3234,6 +3234,22 @@
         <mxCell id="tpqXBUZRoF7W4Se7ErPI-18" value="&lt;span style=&quot;&quot;&gt;Directories &amp;amp; Analytics&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;(Patients, Medical Records, Item and Services)&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpqXBUZRoF7W4Se7ErPI-17">
           <mxGeometry x="0.6172" relative="1" as="geometry">
             <mxPoint x="-5" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.12;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TPYHnDhYXUGEtlh3Gv5O-1" target="pninOs_m-NSGgYnrp1kX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-21" value="Patient Navigation and Settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpqXBUZRoF7W4Se7ErPI-19">
+          <mxGeometry x="0.7601" y="-1" relative="1" as="geometry">
+            <mxPoint x="74" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TPYHnDhYXUGEtlh3Gv5O-1" target="cWJs-fUC4viD8omd0u8L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tpqXBUZRoF7W4Se7ErPI-23" value="Patient Navigation and Settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpqXBUZRoF7W4Se7ErPI-22">
+          <mxGeometry x="0.5994" relative="1" as="geometry">
+            <mxPoint x="70" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
