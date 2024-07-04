@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:29:29.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="-7jRpsSoVaJCTZEnsMc4" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-04T07:55:09.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_fUJrzUNac4Or7qRdmGs" version="24.6.4" type="github" pages="7">
   <diagram id="uTRh53UvC9rDnZi2qPS6" name="Flowchart">
     <mxGraphModel dx="2086" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3000,7 +3000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKgJ5y4iiNk7cbwH_yPr" name="CFD">
-    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3011,9 +3011,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KgDffSXcKabJp0uC2S-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Register (Patient)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="pninOs_m-NSGgYnrp1kX-3" vertex="1" connectable="0">
+        <mxCell id="H4KgDffSXcKabJp0uC2S-3" value="Register and Manage Personal Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="pninOs_m-NSGgYnrp1kX-3" vertex="1" connectable="0">
           <mxGeometry x="-0.8205" y="2" relative="1" as="geometry">
-            <mxPoint x="48" y="-7" as="offset" />
+            <mxPoint x="115" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pninOs_m-NSGgYnrp1kX-1" value="&lt;b&gt;TRIAGE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(CLERK or AIDE)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;fillColor=default;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=default;fontSize=16;" parent="1" vertex="1">
