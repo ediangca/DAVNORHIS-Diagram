@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:16:22.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="TJ0xn1gZi8y-Ea4QrlfS" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-04T06:17:10.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="07ihF-F9TMk4D0FIu40q" version="24.6.4" type="github" pages="7">
   <diagram id="uTRh53UvC9rDnZi2qPS6" name="Flowchart">
     <mxGraphModel dx="2086" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3078,7 +3078,7 @@
         </mxCell>
         <mxCell id="cWJs-fUC4viD8omd0u8L-12" value="Monitor &amp;amp; Manage Rooms and Beds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cWJs-fUC4viD8omd0u8L-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2767" y="2" relative="1" as="geometry">
-            <mxPoint x="53" y="-40" as="offset" />
+            <mxPoint x="41" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cWJs-fUC4viD8omd0u8L-7" value="&lt;b&gt;Admitting Clerk&lt;/b&gt;" style="rounded=0;fillColor=default;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=default;fontSize=16;" parent="1" vertex="1">
