@@ -2800,8 +2800,13 @@
         <mxCell id="yMu7pSINIUKvF2gOIVfI-13" value="&lt;b&gt;TRIAGE CLERK&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;editable=0;movable=0;resizable=0;rotatable=0;deletable=0;locked=1;connectable=0;metaEdit=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FYOW7Oysjew21Yme7lmw-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="yMu7pSINIUKvF2gOIVfI-15" target="FYOW7Oysjew21Yme7lmw-7" edge="1">
+        <mxCell id="FYOW7Oysjew21Yme7lmw-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="yMu7pSINIUKvF2gOIVfI-15" target="FYOW7Oysjew21Yme7lmw-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1ueg-XxxYJY0E6kUel9-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FYOW7Oysjew21Yme7lmw-9">
+          <mxGeometry x="-0.1354" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yMu7pSINIUKvF2gOIVfI-15" value="REGISTER" style="ellipse;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="369" y="210" width="80" height="40" as="geometry" />
