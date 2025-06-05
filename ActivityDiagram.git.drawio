@@ -3540,16 +3540,22 @@
         <mxCell id="to_aKyydESBPOadTRhpG-27" value="TURN OFF&lt;div&gt;ALARM&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="to_aKyydESBPOadTRhpG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="to_aKyydESBPOadTRhpG-31" target="to_aKyydESBPOadTRhpG-34">
+        <mxCell id="to_aKyydESBPOadTRhpG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="to_aKyydESBPOadTRhpG-31" target="to_aKyydESBPOadTRhpG-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="-1074" as="targetPoint" />
+            <mxPoint x="740" y="-1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="to_aKyydESBPOadTRhpG-31" value="SLEEP" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="to_aKyydESBPOadTRhpG-34" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-1060" width="100" height="60" as="geometry" />
+        <mxCell id="to_aKyydESBPOadTRhpG-36" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="to_aKyydESBPOadTRhpG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="to_aKyydESBPOadTRhpG-19" target="to_aKyydESBPOadTRhpG-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to_aKyydESBPOadTRhpG-38" value="A" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-1060" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
